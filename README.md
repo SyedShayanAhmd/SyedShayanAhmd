@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Syed Shayan Ahmed 👋
+## ⚙️ Mechanical Engineer specializing in Manufacturing 4.0 & AI Systems
 
-<!--
-**SyedShayanAhmd/SyedShayanAhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge mechanical design with digital intelligence to create solutions for industrial quality and sustainable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meta 4.0 Profile Highlights
+| Focus Area | Key Achievement |
+| :--- | :--- |
+| **Digital & AI** | Developer of the **"Qfit" PyCaret Interface** and custom **YOLO** models. |
+| **Sustainable Systems** | **PV Cleaning Hexacopter** (Final Year Project) and **Air Purification Tower** research. |
+| **Industrial Quality** | Applied **Root Cause Analysis (RCA)** at Siemens Pakistan and hold **Six Sigma Yellow Belt** certification. |
+
+---
+
+### Connect & Verify My Work
+[**💼 Connect on LinkedIn**](https://www.linkedin.com/in/syedshayanahmed/) | [**🔗 View My Portfolio**](https://syedshayanahmed.carrd.co)
