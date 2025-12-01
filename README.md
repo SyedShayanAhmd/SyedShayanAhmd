@@ -16,9 +16,8 @@
 I am a highly motivated <b>Mechanical Engineer</b> with a passion for <b>Manufacturing 4.0</b>. My journey bridges the gap between physical systems and digital intelligence. <br/><br/>
 From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Computer Vision</b> models at IMES Lab, I specialize in integrating AI with robotics. I have extensive experience in <b>Additive Manufacturing</b>, <b>Drone Fabrication</b>, and <b>Smart Instrumentation</b>. [cite_start]My goal is to pioneer solutions in industrial automation and sustainable technologies[cite: 10, 11, 17, 23].
 </p>
-</td>
 <td width="35%" align="center" style="border: none;">
-<img src="https://github.com/identicons/syedshayanahmed.png" width="200" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Syed Shayan Ahmed" />
+<img src="profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Syed Shayan Ahmed" />
 </td>
 </tr>
 </table>
