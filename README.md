@@ -43,12 +43,14 @@ From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Compute
 
 ### Featured Projects
 
+Featured Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **PV Cleaning Drone (FYP)** | [cite_start]Developed a Hexacopter with YOLOv11 ML integration (12,000+ images) for detecting dust on solar panels[cite: 78, 79]. | Python, YOLO, ESP32, Telemetry |
-| **Fire Detection UAV** | [cite_start]Designed a ZD 550mm drone with 1kg payload capacity for real-time fire detection using custom avionics[cite: 86]. | SolidWorks, 3D Printing, Pixhawk |
-| **Smart Surveillance Vehicle** | [cite_start]A mechatronic vehicle integrated with YOLOv5 for object detection, hosted locally via router control[cite: 87]. | IoT, ESP32-CAM, Computer Vision |
-| **IoT Blind Guidance Stick** | [cite_start]Low-cost navigational assistance tool using sensor fusion and microcontrollers for real-time feedback[cite: 88]. | C++, Arduino, Ultrasonic Sensors |
+| **PV Cleaning Drone (FYP)** | Developed a Hexacopter with YOLOv11 ML integration (12,000+ images) for detecting dust on solar panels. | Python, YOLO, ESP32, Telemetry |
+| **Fire Detection UAV** | Designed a ZD 550mm drone with 1kg payload capacity for real-time fire detection using custom avionics. | SolidWorks, 3D Printing, Pixhawk |
+| **Smart Surveillance Vehicle** | A mechatronic vehicle integrated with YOLOv5 for object detection, hosted locally via router control. | IoT, ESP32-CAM, Computer Vision |
+| **IoT Blind Guidance Stick** | Low-cost navigational assistance tool using sensor fusion and microcontrollers for real-time feedback. | C++, Arduino, Ultrasonic Sensors |
 
 ---
 
