@@ -54,15 +54,15 @@ From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Compute
 
 ### Projects Currently Involved In
 
-* [cite_start]**Propellair 2026:** Leading the design and fabrication of an RC plane (55in wingspan) for the IMECHE Propellor competition, focusing on aerodynamic optimization[cite: 96].
+* **Propellair 2026:** Leading the design and fabrication of an RC plane (55in wingspan) for the IMECHE Propellor competition, focusing on aerodynamic optimization.
 * **Face Tracking Drone:** Developing an autonomous drone capable of real-time facial recognition and tracking using advanced computer vision algorithms.
 
 ---
 
 ### Honors & Awards
-* [cite_start]**1st Place:** 4th AI & IoT Exhibition (Dust Detection Drone)[cite: 114].
-* [cite_start]**Best Report:** IMECHE Propellor '24 (Avionics & CAD)[cite: 110].
-* [cite_start]**2nd Place:** ASME Ignite 8.0 CAD Clash[cite: 107].
+* **1st Place:** 4th AI & IoT Exhibition (Dust Detection Drone).
+* **Best Report:** IMECHE Propellor '24 (Avionics & CAD).
+* **2nd Place:** ASME Ignite 8.0 CAD Clash.
 
 ---
 
@@ -74,7 +74,6 @@ From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Compute
 <a href="https://www.kaggle.com/ssahmed2003" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://syedshayanahmed.carrd.co/#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/></a>
 <a href="https://www.youtube.com/@EngrShayan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.facebook.com/share/1CYd9M9Z8X/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.chess.com/member/SSAhmed2003" target="_blank"><img src="https://img.shields.io/badge/Chess.com-659357?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/></a>
 <a href="mailto:syedshayanahmed2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
