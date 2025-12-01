@@ -1,97 +1,81 @@
-👋 Hi, I'm Syed Shayan Ahmed
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=300&section=header&text=Syed+Shayan+Ahmed&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Mechanical+Engineer+%7C+Manufacturing+4.0+%7C+AI+Integration&descAlignY=55&descSize=20" width="100%" alt="Banner" />
+</div>
+<br/>
 
-Mechanical Engineer | Manufacturing 4.0 & AI Specialist
+<table width="100%" style="border: none;">
+<tr>
+<td width="65%" align="left" valign="center" style="border: none;">
+<h1 style="font-size: 2.5rem; margin-bottom: 0;">Hi, I'm Syed Shayan Ahmed</h1>
+<h3 style="font-weight: normal;">Mechanical Engineer | CAD/CAE Specialist | IoT Developer</h3>
+<br />
+<i>"He who is not courageous enough to take risks will accomplish nothing in life." — Muhammad Ali</i>
+<br /><br />
+<p align="left">
+<b>Technical Journey:</b> <br/>
+I am a highly motivated <b>Mechanical Engineer</b> with a passion for <b>Manufacturing 4.0</b>. My journey bridges the gap between physical systems and digital intelligence. <br/><br/>
+From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Computer Vision</b> models at IMES Lab, I specialize in integrating AI with robotics. I have extensive experience in <b>Additive Manufacturing</b>, <b>Drone Fabrication</b>, and <b>Smart Instrumentation</b>. [cite_start]My goal is to pioneer solutions in industrial automation and sustainable technologies[cite: 10, 11, 17, 23].
+</p>
+</td>
+<td width="35%" align="center" style="border: none;">
+<img src="https://github.com/identicons/syedshayanahmed.png" width="200" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Syed Shayan Ahmed" />
+</td>
+</tr>
+</table>
 
-Highly motivated Mechanical Engineer with a strong academic background (CGPA 3.766/4.000) and practical expertise in Manufacturing 4.0 domains, including Digital, Smart, and Sustainable Technologies. My core specialties lie in Machine Learning (YOLOv8/v11), Industrial IoT, Additive Manufacturing, and Quality Management. Enthusiastic about industrial automation and integrating AI into physical systems.
+---
 
-🚀 Quick Links & Connect
+### Technical Skills & Tools
 
-Connect
+<p align="center">
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/></a>
+<br/>
+<a href="https://www.solidworks.com/" target="_blank"><img src="https://img.shields.io/badge/SolidWorks-D32F2F?style=for-the-badge&logo=dassaul&logoColor=white" alt="SolidWorks"/></a>
+<a href="https://www.ansys.com/" target="_blank"><img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="Ansys"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
+<a href="https://www.espressif.com/" target="_blank"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/></a>
+<a href="https://new.siemens.com/" target="_blank"><img src="https://img.shields.io/badge/Siemens_NX-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens NX"/></a>
+</p>
 
-Status/Link
+---
 
-LinkedIn
+### Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **PV Cleaning Drone (FYP)** | [cite_start]Developed a Hexacopter with YOLOv11 ML integration (12,000+ images) for detecting dust on solar panels[cite: 78, 79]. | Python, YOLO, ESP32, Telemetry |
+| **Fire Detection UAV** | [cite_start]Designed a ZD 550mm drone with 1kg payload capacity for real-time fire detection using custom avionics[cite: 86]. | SolidWorks, 3D Printing, Pixhawk |
+| **Smart Surveillance Vehicle** | [cite_start]A mechatronic vehicle integrated with YOLOv5 for object detection, hosted locally via router control[cite: 87]. | IoT, ESP32-CAM, Computer Vision |
+| **IoT Blind Guidance Stick** | [cite_start]Low-cost navigational assistance tool using sensor fusion and microcontrollers for real-time feedback[cite: 88]. | C++, Arduino, Ultrasonic Sensors |
 
+---
 
-Portfolio
+### Projects Currently Involved In
 
+* [cite_start]**Propellair 2026:** Leading the design and fabrication of an RC plane (55in wingspan) for the IMECHE Propellor competition, focusing on aerodynamic optimization[cite: 96].
+* **Face Tracking Drone:** Developing an autonomous drone capable of real-time facial recognition and tracking using advanced computer vision algorithms.
 
+---
 
-Email Me
+### Honors & Awards
+* [cite_start]**1st Place:** 4th AI & IoT Exhibition (Dust Detection Drone)[cite: 114].
+* [cite_start]**Best Report:** IMECHE Propellor '24 (Avionics & CAD)[cite: 110].
+* [cite_start]**2nd Place:** ASME Ignite 8.0 CAD Clash[cite: 107].
 
+---
 
+### Connect With Me
 
-🛠️ Technical Skillset (Click to Expand)
-
-These sections use the <details> and <summary> HTML tags for interactive, collapsible content—a standard feature for GitHub READMEs!
-
-<details>
-<summary><b>🧠 Digital Manufacturing & AI</b></summary>
-
-
-
-
-Machine Learning / Computer Vision: Expert in YOLOv8/v11, RCNN. Proficient in Python (PyCaret, Flask, TensorFlow) for model training and deployment.
-
-Data Science: Automated data processing and visualization for industrial applications.
-
-</details>
-
-<details>
-<summary><b>🔌 Smart Instrumentation & IoT</b></summary>
-
-
-
-
-Embedded Systems: Programming ESP32 and Arduino microcontrollers for sensor fusion and real-time data acquisition.
-
-Industrial Automation: PLC Programming (Siemens S7-1200) and HMI interfacing.
-
-</details>
-
-<details>
-<summary><b>📐 Engineering Design (CAD/CAE)</b></summary>
-
-
-
-
-Modeling: Advanced proficiency in Siemens NX, SolidWorks, and Fusion 360.
-
-Simulation: Ansys (Fluent, Static Structural) and Simscape/MATLAB for physical system analysis.
-
-Additive Manufacturing: Optimization for FDM 3D Printing and Rapid Prototyping.
-
-</details>
-
-🏆 Key Projects
-
-1. Development of Drone for PV Cleaning Applications (Final Year Project)
-
-Developed a 200-epoch YOLOv11 Machine Learning model trained on 12,000+ images for detecting dust/clean PV panels.
-
-Designed a ZD 975mm Hexacopter frame with ESP32-CAM integration for real-time monitoring and telemetry connection to Mission Planner.
-
-Technology Stack: YOLOv11, ESP32, Python, UDP/Telemetry.
-
-2. Intelligent Systems & AI Research (IMES Lab)
-
-Developed a ZD 550mm Fire Detection Drone (1kg payload, 15 min flight time).
-
-Integrated YOLOv5 with a custom 3D-printed surveillance vehicle for real-time object detection via local hosting.
-
-Created an IoT-enabled blind guidance stick using ESP32 and sensor fusion for low-cost navigational assistance.
-
-💼 Professional Experience Highlights
-
-Technical Associate at Siemens Pakistan (Quality Management): Applied Root Cause Analysis (RCA) and technical expertise to resolve electrical panel failures (30+ Voltage transformers). Led Quality Assurance for site replacement parts, ensuring compliance with manufacturing standards.
-
-University Research Technology Expert (IMES NED): Specialized in integrating physical systems with AI, leading the development of Machine Learning models for applications like PV cleaning analysis and fire detection, and specializing in Additive Manufacturing of complex UAV parts.
-
-My GitHub Stats
-
-<!-- GitHub Stats Badge: This dynamically shows your activity. -->
-
-<!-- NOTE: You will need to replace 'syedshayanahmed' with your actual GitHub username for the badge above to work once you set up your profile. -->
-
-<p align="center"><i>"Enthusiastic about industrial automation and the future of advanced manufacturing."</i></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/syedshayanahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://grabcad.com/syed.shayan.ahmed-1" target="_blank"><img src="https://img.shields.io/badge/GrabCAD-E6162D?style=for-the-badge&logo=grabcad&logoColor=white" alt="GrabCAD"/></a>
+<a href="https://www.kaggle.com/ssahmed2003" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://syedshayanahmed.carrd.co/#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=about.me&logoColor=white" alt="Website"/></a>
+<a href="https://www.youtube.com/@EngrShayan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.facebook.com/share/1CYd9M9Z8X/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.chess.com/member/SSAhmed2003" target="_blank"><img src="https://img.shields.io/badge/Chess.com-659357?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/></a>
+<a href="mailto:syedshayanahmed2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
