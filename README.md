@@ -65,7 +65,7 @@ Featured Projects
 ### Projects Currently Involved In
 
 * **Propellair 2026:** Leading the design and fabrication of an RC plane (55in wingspan) for the IMECHE Propellor competition, focusing on aerodynamic optimization.
-* **Face Tracking Drone:** Developing an autonomous drone capable of real-time facial recognition and tracking using advanced computer vision algorithms.
+* **Manfacturing 4.0 facility** Working on a digital robotic arm with with industrial grade operations of mimic and custom control panel for any global manufacturing line.
 
 ---
 
