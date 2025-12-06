@@ -15,14 +15,14 @@
 <tr>
 <td width="65%" align="left" valign="center" style="border: none;">
 <h1 style="font-size: 2.5rem; margin-bottom: 0;">Hi, I'm Syed Shayan Ahmed</h1>
-<h3 style="font-weight: normal;">Mechanical Engineer | CAD/CAE Specialist | IoT Developer</h3>
+<h3 style="font-weight: normal;">Mechanical Engineer | Manufacturing 4.0 Specialist | Technical Associate @ Siemens | Researcher @ IMES Lab</h3>
 <br />
 <i>"He who is not courageous enough to take risks will accomplish nothing in life." — Muhammad Ali</i>
 <br /><br />
 <p align="left">
-<b>🚀 My Technical Journey:</b> <br/>
+<b> My Technical Journey:</b> <br/>
 I am a highly motivated <b>Mechanical Engineer</b> with a passion for <b>Manufacturing 4.0</b>. My journey bridges the gap between physical systems and digital intelligence. <br/><br/>
-From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Computer Vision</b> models at IMES Lab, I specialize in integrating AI with robotics. I have extensive experience in <b>Additive Manufacturing</b>, <b>Drone Fabrication</b>, and <b>Smart Instrumentation</b>. My goal is to pioneer solutions in industrial automation and sustainable technologies.
+From analyzing <b>Root Causes</b> at Siemens to developing <b>YOLO-based Computer Vision</b> models at IMES Lab, I specialize in integrating AI with robotics. I specialize in Cyber-Physical Systems and Rapid Prototyping. My repositories focus on Industrial Computer Vision (YOLO), DFM-optimized CAD, and Automated Data Analysis Tools for smart manufacturing environments.
 </p>
 <td width="35%" align="center" style="border: none;">
 <img src="IMG-20250905-WA0024.jpg" width="270" style="border-radius: 50%; border: 4px solid #0077B5;" alt="Syed Shayan Ahmed" />
