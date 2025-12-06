@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=320&section=header&text=Syed+Shayan+Ahmed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Mechanical+Engineer&descAlignY=60&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F4D03F,E67E22,2ECC71,E74C3C,000000&height=320&section=header&text=Syed+Shayan+Ahmed&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Manufacturing+4.0+Specialist&descAlignY=60&descSize=25&fontColor=ffffff" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=900&lines=AI+IoT+and+Automation+%7C+Smart+Manufacturing+%7C+CAD+Designer;Nedian+25%E2%80%99+%7C+CAD%2FCAM+%7C+ML+model+%7C+Mechatronics+%26+Drone+enthusiast;CEO+Flexone+%7C+Research+%40IMES+NED+%7C+TA+%40Siemens;Society+%40+X-ASME+%7C+Advisor+ASHRAE+NED;Internship+%40+PEC%2C+Dawlance%2C+Star+Air+Aviation%2C+KS%26EW%2C+AFI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E67E22&center=true&vCenter=true&width=1000&lines=Manufacturing+4.0+Specialist+%7C+AI+%26+Automation;CAD%2FCAE+Expert+%7C+Cyber-Physical+Systems;Technical+Associate+%40+Siemens+%7C+Researcher+%40+IMES;Director+%40+Flexone+%7C+Board+Advisor+%40+ASHRAE;Exp%3A+Siemens%2C+Dawlance%2C+PIA%2C+Star+Aviation" alt="Typing SVG" />
   </a>
 
 </div>
